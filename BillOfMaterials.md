@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|9G Servo|1|$6.99|https://amzn.to/3POakdO|
+|Total: |1|$6.99| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $20.97
